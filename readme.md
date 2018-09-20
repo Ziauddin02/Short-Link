@@ -1,7 +1,7 @@
-Short Lnk
+# Short Lnk
 
 This is a Link Shortener build on Meteor and React.
 
-Authors
+## Authors
 
 MD Ziauddin
